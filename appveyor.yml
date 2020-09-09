@@ -48,7 +48,7 @@ artifacts:
   name: main
 deploy:
 - provider: GitHub
-  auth_token:
+  auth_token: 1a1540bb8eddd5363d323895fde77ba267931564
     secure: 
   artifact: main
   draft: true
